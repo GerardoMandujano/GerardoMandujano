@@ -1,31 +1,33 @@
-# Portfolio Gerardo Mandujano
+# Hola 👋 Soy Gerardo Mandujano
 
-Portafolio profesional responsivo para un Senior Java Full Stack Developer, desarrollado con HTML5, CSS3, Bootstrap 5, Bootstrap Icons y JavaScript Vanilla.
+Senior Java Backend Developer con experiencia construyendo aplicaciones empresariales para banca, salud, telecomunicaciones y retail.
 
-## Estructura
+## Tecnologías
 
-```text
-portfolio-gerardo/
-├── index.html
-├── css/
-│   └── styles.css
-├── js/
-│   └── main.js
-├── assets/
-│   ├── img/
-│   │   └── profile.png
-│   └── cv/
-│       └── GerardoMandujanoCV.pdf
-└── README.md
-```
+- Java 8, 11, 17 y 21
+- Spring Boot
+- Spring Security
+- Microservicios
+- Docker
+- OpenShift
+- Maven
+- Git
+- MariaDB
+- PostgreSQL
+- MongoDB
+- Angular
+- Ionic
 
-## Secciones
+## Actualmente
 
-- Inicio
-- Sobre mi
-- Experiencia
-- Stack Tecnologico
-- Proyectos
-- Mi forma de trabajar
-- Filosofia de trabajo
-- Contacto
+🚀 Construyendo Iglesia POS
+
+🚀 Construyendo Pulso Fitness
+
+## Contacto
+
+LinkedIn
+
+Correo
+
+CV
